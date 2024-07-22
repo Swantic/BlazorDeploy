@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/BlazorDeploy/FileContentIndex/cab957be-7327-4022-bd79-35c23efea159.vsidx
+*.vsidx
+*.sqlite
+/.vs
